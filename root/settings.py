@@ -27,6 +27,8 @@ INSTALLED_APPS = [
     
     'accounts',
     'instazam',
+    
+    'api'
 ]
 
 MIDDLEWARE = [
